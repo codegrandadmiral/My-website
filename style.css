@@ -1,0 +1,107 @@
+#img1 {
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+body {
+    text-align: center;
+    margin: 0;
+    background-image: url(Night-Sky-Stars-Computer-Wallpaper_2.jpg)
+}
+#sec1 {
+    background: linear-gradient(#09f8e6 0%,#271590 100%);
+    padding-top: 50px;
+    height: 675px;
+}
+#hello {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+#about_me {
+    text-align: center;
+}
+#ul1 {
+    list-style: none;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    margin-left: 550px;
+    font-family: 'Pacifico', cursive;
+}
+.list1 {
+    float: left;
+    padding-left:10px ;
+    padding-right:10px ;
+    color:lawngreen;
+    font-size: 18px;
+}
+.list1:hover{
+    font-size:23px;
+    background-color: lightsalmon;
+}
+#name {
+    font-family: 'Indie Flower', cursive;
+    font-size:50px; 
+    font-variant: small-caps;
+    font-weight: 900;
+    color: darkorange;
+}
+#age {
+    font-family: 'Indie Flower', cursive;
+    font-size:30px; 
+    font-variant: small-caps;
+    font-weight: 900;
+    color: greenyellow;
+}
+#hello {
+    font-family: 'Indie Flower', cursive;
+    font-size:30px; 
+    font-variant: small-caps;
+    font-weight: 900;
+    color: greenyellow;
+}
+#iam {
+    font-family: 'Indie Flower', cursive;
+    font-size:30px; 
+    font-variant: small-caps;
+    font-weight: 900;
+    color: greenyellow;
+}
+#about_me {
+    height: 800px;
+    width: 400px;
+    margin-left:270px;
+    font-size: 22px;
+    color: lawngreen;
+}
+#imgelonmusk {
+    height: 400px;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 80px;
+    margin: 8px auto;
+}
+#h1 {
+    color: white
+}
+#h2 {
+    color: white
+}
+#h3 {
+    color: white 
+}
+#tar1 {
+    display: inline;
+    color: aliceblue;
+}
+#tar2 {
+    display: inline;
+    color: aliceblue;
+}
+i {
+    color: aquamarine;
+}
+a {
+    font-size: 30px;
+}
